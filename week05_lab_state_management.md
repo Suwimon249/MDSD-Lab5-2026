@@ -1,5 +1,3 @@
-<img width="1917" height="1026" alt="finish2" src="https://github.com/user-attachments/assets/901eaff6-a528-42af-a7c2-92b3fd886cbd" /># ใบงานปฏิบัติสัปดาห์ที่ 5: State Management ด้วย Provider และ Riverpod
-
 **วิชา** การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่ | **เครื่องมือ** Flutter, Provider, Riverpod, Google AI Studio (Gemini API)
 
 
